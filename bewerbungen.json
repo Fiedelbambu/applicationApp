@@ -1,0 +1,20 @@
+[
+    {
+        "Firma": "Firma A",
+        "BeworbenAm": "10.01.2025",
+        "Bewerbungstermin": "20.01.2025",
+        "Status": "Zusage"
+    },
+    {
+        "Firma": "Firma B",
+        "BeworbenAm": "15.01.2025",
+        "Bewerbungstermin": "25.01.2025",
+        "Status": "Absage"
+    },
+    {
+        "Firma": "Firma C",
+        "BeworbenAm": "20.01.2025",
+        "Bewerbungstermin": "30.01.2025",
+        "Status": "Offen"
+    }
+]
